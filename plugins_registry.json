@@ -6,7 +6,7 @@
             "version": "1.0.0",
             "author": "kentik",
             "description": "Плагин для того что бы всегда видеть чат или даже вывести оверлей на стрим.",
-            "download_url": "https://github.com/your-username/example-plugin/archive/main.zip",
+            "download_url": "https://github.com/treld/Komit/blob/main/plugins/twitch_chat.zip",
             "icon": "https://img.freepik.com/premium-vector/twitch-app-icon-interactive-livestreaming-service-gaming-social-media_277909-496.jpg"
         }
     ],
