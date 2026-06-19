@@ -3,7 +3,7 @@
         {
             "id": "twitch_chat",
             "name": "Chat twitch",
-            "version": "1.0.0",
+            "version": "1.2.0",
             "author": "kentik",
             "description": "Плагин для того что бы всегда видеть чат или даже вывести оверлей на стрим.",
             "download_url": "https://github.com/treld/Komit/blob/main/plugins/twitch_chat.zip",
